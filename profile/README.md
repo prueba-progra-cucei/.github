@@ -5,11 +5,11 @@
 Aquí podrás encontrar información sobre nosotrxs, el código de nuestros proyectos (*we ❤️ open source*) y los integrantes de nuestro club.
 
 <br><p align="center">
-<a href="http://discord.programacion-cucei.club"><img src="./res/icons/discord.png" alt="Enlace al serividor de Discord" width="40"></a>
-<a href="http://whatsapp.programacion-cucei.club"><img src="./res/icons/whatsapp.png" alt="Enlace al grupo de WhatsApp" width="40"></a>
-<a href="http://facebook.programacion-cucei.club"><img src="./res/icons/facebook.png" alt="Enlace a la página de Facebook" width="40"></a>
-<a href="http://twitch.programacion-cucei.club"><img src="./res/icons/twitch.png" alt="Enlace al canal de Twitch" width="40"></a>
-<a href="http://youtube.programacion-cucei.club"><img src="./res/icons/youtube.png" alt="Enlace al canal de YouTube" width="40"></a>
+<a href="http://discord.programacion-cucei.club"><img src="./res/icons/discord.png" alt="Enlace al serividor de Discord" width="60"></a>
+<a href="http://whatsapp.programacion-cucei.club"><img src="./res/icons/whatsapp.png" alt="Enlace al grupo de WhatsApp" width="60"></a>
+<a href="http://facebook.programacion-cucei.club"><img src="./res/icons/facebook.png" alt="Enlace a la página de Facebook" width="60"></a>
+<a href="http://twitch.programacion-cucei.club"><img src="./res/icons/twitch.png" alt="Enlace al canal de Twitch" width="60"></a>
+<a href="http://youtube.programacion-cucei.club"><img src="./res/icons/youtube.png" alt="Enlace al canal de YouTube" width="60"></a>
 </p><br>
 
 ![<h1>¿Quiénes somos?</h1>](./res/quienes_somos.png)
