@@ -44,36 +44,32 @@ Si quieres saber cómo funciona este juego, hemos preparado un documento explic�
 		</p></td>
 		<td><p align="center">
 			<b>Daniel Hdez M</b><br>
-			<a href="https://github.com/lordfriky" target="_blank"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
-			<a href="https://twitter.com/lord_friky" target="_blank"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
-			<a href="https://www.instagram.com/daniel.hdezm/" target="_blank"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
+			<a href="https://github.com/lordfriky"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
+			<a href="https://twitter.com/lord_friky"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
+			<a href="https://www.instagram.com/daniel.hdezm/"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
 		</p></td>
 		<td><p align="center">
 			<b>Eduard Delgado</b><br>
 			(Blanco)<br>
-			<a href="https://github.com/lordfriky" target="_blank"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
-			<a href="https://twitter.com/lord_friky" target="_blank"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
-			<a href="https://www.instagram.com/daniel.hdezm/" target="_blank"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
+			<a href="https://facebook.com/ligths.x5"><img src="./res/icons/facebook.png" width="12"> Eduard Blanco</a><br>
+			<a href="https://www.instagram.com/ligthss/"><img src="./res/icons/instagram.png" width="12"> ligthss</a><br>
+			<a href="https://twitter.com/Ligthss_"><img src="./res/icons/twitter.png" width="12"> Ligthss_</a>
 		</p></td>
 		<td><p align="center">
 			<b>Flavio Valenzuela A.</b><br>
-			<a href="https://github.com/lordfriky" target="_blank"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
-			<a href="https://twitter.com/lord_friky" target="_blank"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
-			<a href="https://www.instagram.com/daniel.hdezm/" target="_blank"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
+			<a href="https://facebook.com/flavio.valenzuelaalvarez"><img src="./res/icons/facebook.png" width="12"> Flavio Valenzuela Alvarez</a><br>
+			<a href="https://www.instagram.com/flaviovalal/"><img src="./res/icons/instagram.png" width="12"> flaviovalal</a><br>
+			<a href="https://twitter.com/cesar_valal"><img src="./res/icons/twitter.png" width="12"> cesar_valal</a>
 		</p></td>
 		<td><p align="center">
 			<b>Miguel Necoechea</b><br>
-			(Neco)<br>
-			<a href="https://github.com/lordfriky" target="_blank"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
-			<a href="https://twitter.com/lord_friky" target="_blank"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
-			<a href="https://www.instagram.com/daniel.hdezm/" target="_blank"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
+			(Neco)
 		</p></td>
 		<td><p align="center">
 			<b>Selene Rodríguez</b><br>
 			(Sele)<br>
-			<a href="https://github.com/lordfriky" target="_blank"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
-			<a href="https://twitter.com/lord_friky" target="_blank"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
-			<a href="https://www.instagram.com/daniel.hdezm/" target="_blank"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
+			<a href="https://www.linkedin.com/in/selene-rodriguez/"><img src="./res/icons/linkedin.png" width="12"> selene-rodriguez</a><br>
+			<a href="https://www.instagram.com/_selenerdz_/"><img src="./res/icons/instagram.png" width="12"> _selenerdz_</a>
 		</p></td>
 	</tr>
 </table>
