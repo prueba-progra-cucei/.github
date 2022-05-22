@@ -5,8 +5,8 @@
 <br><p align="center">
 <a href="http://discord.programacion-cucei.club"><img src="./res/icons/discord.png" alt="Enlace al serividor de Discord" width="50"></a>
 <a href="http://whatsapp.programacion-cucei.club"><img src="./res/icons/whatsapp.png" alt="Enlace al grupo de WhatsApp" width="50"></a>
-<a href="http://facebook.programacion-cucei.club"><img src="./res/icons/facebook.png" alt="Enlace a la página de Facebook" width="48"></a>
-<a href="http://twitch.programacion-cucei.club"><img src="./res/icons/twitch.png" alt="Enlace al canal de Twitch" width="50"></a>
+<a href="http://facebook.programacion-cucei.club"><img src="./res/icons/facebook.png" alt="Enlace a la página de Facebook" width="50"></a>
+<a href="http://twitch.programacion-cucei.club"><img src="./res/icons/twitch.png" alt="Enlace al canal de Twitch" width="48"></a>
 <a href="http://youtube.programacion-cucei.club"><img src="./res/icons/youtube.png" alt="Enlace al canal de YouTube" width="50"></a>
 </p><br>
 
