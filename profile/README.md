@@ -37,41 +37,44 @@ Si quieres saber cómo funciona este juego, hemos preparado un documento explic�
 		<th><img src="./res/fundadorxs/neco.jpg" alt="Foto de Selene"></th>
 	</tr>
 	<tr>
-		<th><center>
+		<td><center>
+			<b>Bryan Muñoz</b><br>
+			<a href="https://github.com/lordfriky" target="_blank"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
+			<a href="https://twitter.com/lord_friky" target="_blank"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
+			<a href="https://www.instagram.com/daniel.hdezm/" target="_blank"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
+		</center></td>
+		<td><center>
 			<b>Daniel Hdez M</b><br>
 			<a href="https://github.com/lordfriky" target="_blank"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
 			<a href="https://twitter.com/lord_friky" target="_blank"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
 			<a href="https://www.instagram.com/daniel.hdezm/" target="_blank"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
-		</center></th>
-		<th><center>
-			<b>Daniel Hdez M</b><br>
+		</center></td>
+		<td><center>
+			<b>Eduard Delgado</b><br>
+			(Blanco)<br>
 			<a href="https://github.com/lordfriky" target="_blank"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
 			<a href="https://twitter.com/lord_friky" target="_blank"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
 			<a href="https://www.instagram.com/daniel.hdezm/" target="_blank"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
-		</center></th>
-		<th><center>
-			<b>Daniel Hdez M</b><br>
+		</center></td>
+		<td><center>
+			<b>Flavio Valenzuela A.</b><br>
 			<a href="https://github.com/lordfriky" target="_blank"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
 			<a href="https://twitter.com/lord_friky" target="_blank"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
 			<a href="https://www.instagram.com/daniel.hdezm/" target="_blank"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
-		</center></th>
-		<th><center>
-			<b>Daniel Hdez M</b><br>
+		</center></td>
+		<td><center>
+			<b>Miguel Necoechea</b><br>
+			(Neco)<br>
 			<a href="https://github.com/lordfriky" target="_blank"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
 			<a href="https://twitter.com/lord_friky" target="_blank"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
 			<a href="https://www.instagram.com/daniel.hdezm/" target="_blank"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
-		</center></th>
-		<th><center>
-			<b>Daniel Hdez M</b><br>
+		</center></td>
+		<td><center>
+			<b>Selene Rodríguez</b><br>
+			(Sele)<br>
 			<a href="https://github.com/lordfriky" target="_blank"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
 			<a href="https://twitter.com/lord_friky" target="_blank"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
 			<a href="https://www.instagram.com/daniel.hdezm/" target="_blank"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
-		</center></th>
-		<th><center>
-			<b>Daniel Hdez M</b><br>
-			<a href="https://github.com/lordfriky" target="_blank"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
-			<a href="https://twitter.com/lord_friky" target="_blank"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
-			<a href="https://www.instagram.com/daniel.hdezm/" target="_blank"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
-		</center></th>
+		</center></td>
 	</tr>
 </table>
