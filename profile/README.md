@@ -1,4 +1,4 @@
-![Letrero de "¡Bienvenidx a nuestro GitHub!" con los logos del club de programación CUCEI y el de Acción U](../res/header.gif)
+![Letrero de "¡Bienvenidx a nuestro GitHub!" con los logos del club de programación CUCEI y el de Acción U](./res/header.gif)
 
 ¡Bienvenidxs a la organización de GitHub del Club de Programación del **Centro Universitario de Ciencias Exactas e Ingenierías** de la **Universidad de Guadalajara**!
 
