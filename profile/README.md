@@ -29,52 +29,51 @@ Si quieres saber cómo funciona este juego, hemos preparado un documento explic�
 
 <table align="center">
 	<tr>
-		<th><img src="./res/fundadorxs/bryan.jpg" alt="Foto de Bryan"></th>
+		<th><img src="./res/fundadorxs/bryan.jpg" alt="Foto de Bryan Muñoz"></th>
 		<th><img src="./res/fundadorxs/daniel.jpg" alt="Foto de Daniel Hdez M"></th>
-		<th><img src="./res/fundadorxs/edward.jpg" alt="Foto de Edward"></th>
-		<th><img src="./res/fundadorxs/neco.jpg" alt="Foto de Flavio"></th>
-		<th><img src="./res/fundadorxs/neco.jpg" alt="Foto de Neco"></th>
-		<th><img src="./res/fundadorxs/neco.jpg" alt="Foto de Selene"></th>
+		<th><img src="./res/fundadorxs/edward.jpg" alt="Foto de Eduard Delgado"></th>
+		<th><img src="./res/fundadorxs/flavio.jpg" alt="Foto de Flavio Valenzuela A"></th>
+		<th><img src="./res/fundadorxs/neco.jpg" alt="Foto de Miguel Necoechea"></th>
+		<th><img src="./res/fundadorxs/selene.jpg" alt="Foto de Selene Rodríguez"></th>
 	</tr>
 	<tr>
-		<td><center>
+		<td><p align="center">
 			<b>Bryan Muñoz</b><br>
-			<a href="https://github.com/lordfriky" target="_blank"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
-			<a href="https://twitter.com/lord_friky" target="_blank"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
-			<a href="https://www.instagram.com/daniel.hdezm/" target="_blank"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
-		</center></td>
-		<td><center>
+			<a href="https://www.linkedin.com/in/bryan-munozm/"><img src="./res/icons/linkedin.png" width="12"> bryan-munozm</a><br>
+			<a href="https://www.instagram.com/mr._bombastick/"><img src="./res/icons/instagram.png" width="12"> mr._bombastick</a>
+		</p></td>
+		<td><p align="center">
 			<b>Daniel Hdez M</b><br>
 			<a href="https://github.com/lordfriky" target="_blank"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
 			<a href="https://twitter.com/lord_friky" target="_blank"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
 			<a href="https://www.instagram.com/daniel.hdezm/" target="_blank"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
-		</center></td>
-		<td><center>
+		</p></td>
+		<td><p align="center">
 			<b>Eduard Delgado</b><br>
 			(Blanco)<br>
 			<a href="https://github.com/lordfriky" target="_blank"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
 			<a href="https://twitter.com/lord_friky" target="_blank"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
 			<a href="https://www.instagram.com/daniel.hdezm/" target="_blank"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
-		</center></td>
-		<td><center>
+		</p></td>
+		<td><p align="center">
 			<b>Flavio Valenzuela A.</b><br>
 			<a href="https://github.com/lordfriky" target="_blank"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
 			<a href="https://twitter.com/lord_friky" target="_blank"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
 			<a href="https://www.instagram.com/daniel.hdezm/" target="_blank"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
-		</center></td>
-		<td><center>
+		</p></td>
+		<td><p align="center">
 			<b>Miguel Necoechea</b><br>
 			(Neco)<br>
 			<a href="https://github.com/lordfriky" target="_blank"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
 			<a href="https://twitter.com/lord_friky" target="_blank"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
 			<a href="https://www.instagram.com/daniel.hdezm/" target="_blank"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
-		</center></td>
-		<td><center>
+		</p></td>
+		<td><p align="center">
 			<b>Selene Rodríguez</b><br>
 			(Sele)<br>
 			<a href="https://github.com/lordfriky" target="_blank"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
 			<a href="https://twitter.com/lord_friky" target="_blank"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
 			<a href="https://www.instagram.com/daniel.hdezm/" target="_blank"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
-		</center></td>
+		</p></td>
 	</tr>
 </table>
