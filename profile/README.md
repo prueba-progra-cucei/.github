@@ -1,8 +1,6 @@
 ![Letrero de "¡Bienvenidx a nuestro GitHub!" con los logos del club de programación CUCEI y el de Acción U](./res/header2.gif)
 
-¡Bienvenidxs a la organización de GitHub del Club de Programación del **Centro Universitario de Ciencias Exactas e Ingenierías** de la **Universidad de Guadalajara**!
-
-Aquí podrás encontrar información sobre nosotrxs, el código de nuestros proyectos (*we ❤️ open source*) y los integrantes de nuestro club.
+¡Bienvenidxs a la organización de GitHub del Club de Programación del **Centro Universitario de Ciencias Exactas e Ingenierías** de la **Universidad de Guadalajara**! Aquí podrás encontrar información sobre nosotrxs, el código de nuestros proyectos (*we ❤️ open source*) y los integrantes de nuestro club.
 
 <br><p align="center">
 <a href="http://discord.programacion-cucei.club"><img src="./res/icons/discord.png" alt="Enlace al serividor de Discord" width="50"></a>
