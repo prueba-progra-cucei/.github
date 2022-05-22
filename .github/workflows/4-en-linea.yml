@@ -1,0 +1,17 @@
+name: "4 En Linea"
+
+on:
+  issues:
+    types: [oppened]
+  
+jobs:
+  4-En-Linea:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.issue.title, '4-en-linea|')
+    steps:
+
+      - name: ""
+        uses: actions/checkout@v2
+        with:
+          path: .
+          url:
