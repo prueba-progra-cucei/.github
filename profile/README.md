@@ -5,11 +5,11 @@
 Aquí podrás encontrar información sobre nosotrxs, el código de nuestros proyectos (*we ❤️ open source*) y los integrantes de nuestro club.
 
 <br><p align="center">
-<a href="http://discord.programacion-cucei.club"><img src="./res/icons/discord.png" alt="Enlace al serividor de Discord" width="60"></a>
-<a href="http://whatsapp.programacion-cucei.club"><img src="./res/icons/whatsapp.png" alt="Enlace al grupo de WhatsApp" width="60"></a>
-<a href="http://facebook.programacion-cucei.club"><img src="./res/icons/facebook.png" alt="Enlace a la página de Facebook" width="60"></a>
-<a href="http://twitch.programacion-cucei.club"><img src="./res/icons/twitch.png" alt="Enlace al canal de Twitch" width="60"></a>
-<a href="http://youtube.programacion-cucei.club"><img src="./res/icons/youtube.png" alt="Enlace al canal de YouTube" width="60"></a>
+<a href="http://discord.programacion-cucei.club" target="_blank"><img src="./res/icons/discord.png" alt="Enlace al serividor de Discord" width="60"></a>
+<a href="http://whatsapp.programacion-cucei.club" target="_blank"><img src="./res/icons/whatsapp.png" alt="Enlace al grupo de WhatsApp" width="60"></a>
+<a href="http://facebook.programacion-cucei.club" target="_blank"><img src="./res/icons/facebook.png" alt="Enlace a la página de Facebook" width="60"></a>
+<a href="http://twitch.programacion-cucei.club" target="_blank"><img src="./res/icons/twitch.png" alt="Enlace al canal de Twitch" width="60"></a>
+<a href="http://youtube.programacion-cucei.club" target="_blank"><img src="./res/icons/youtube.png" alt="Enlace al canal de YouTube" width="60"></a>
 </p><br>
 
 ![<h1>¿Quiénes somos?</h1>](./res/quienes_somos.png)
@@ -41,39 +41,39 @@ Si quieres saber cómo funciona este juego, hemos preparado un documento explic�
 	<tr>
 		<th><center>
 			<b>Daniel Hdez M</b><br>
-			<a href="https://github.com/lordfriky"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
-			<a href="https://twitter.com/lord_friky"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
-			<a href="https://www.instagram.com/daniel.hdezm/"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
+			<a href="https://github.com/lordfriky" target="_blank"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
+			<a href="https://twitter.com/lord_friky" target="_blank"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
+			<a href="https://www.instagram.com/daniel.hdezm/" target="_blank"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
 		</center></th>
 		<th><center>
 			<b>Daniel Hdez M</b><br>
-			<a href="https://github.com/lordfriky"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
-			<a href="https://twitter.com/lord_friky"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
-			<a href="https://www.instagram.com/daniel.hdezm/"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
+			<a href="https://github.com/lordfriky" target="_blank"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
+			<a href="https://twitter.com/lord_friky" target="_blank"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
+			<a href="https://www.instagram.com/daniel.hdezm/" target="_blank"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
 		</center></th>
 		<th><center>
 			<b>Daniel Hdez M</b><br>
-			<a href="https://github.com/lordfriky"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
-			<a href="https://twitter.com/lord_friky"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
-			<a href="https://www.instagram.com/daniel.hdezm/"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
+			<a href="https://github.com/lordfriky" target="_blank"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
+			<a href="https://twitter.com/lord_friky" target="_blank"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
+			<a href="https://www.instagram.com/daniel.hdezm/" target="_blank"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
 		</center></th>
 		<th><center>
 			<b>Daniel Hdez M</b><br>
-			<a href="https://github.com/lordfriky"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
-			<a href="https://twitter.com/lord_friky"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
-			<a href="https://www.instagram.com/daniel.hdezm/"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
+			<a href="https://github.com/lordfriky" target="_blank"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
+			<a href="https://twitter.com/lord_friky" target="_blank"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
+			<a href="https://www.instagram.com/daniel.hdezm/" target="_blank"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
 		</center></th>
 		<th><center>
 			<b>Daniel Hdez M</b><br>
-			<a href="https://github.com/lordfriky"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
-			<a href="https://twitter.com/lord_friky"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
-			<a href="https://www.instagram.com/daniel.hdezm/"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
+			<a href="https://github.com/lordfriky" target="_blank"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
+			<a href="https://twitter.com/lord_friky" target="_blank"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
+			<a href="https://www.instagram.com/daniel.hdezm/" target="_blank"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
 		</center></th>
 		<th><center>
 			<b>Daniel Hdez M</b><br>
-			<a href="https://github.com/lordfriky"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
-			<a href="https://twitter.com/lord_friky"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
-			<a href="https://www.instagram.com/daniel.hdezm/"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
+			<a href="https://github.com/lordfriky" target="_blank"><img src="./res/icons/github.png" width="12"> lordfriky</a><br>
+			<a href="https://twitter.com/lord_friky" target="_blank"><img src="./res/icons/twitter.png" width="12"> lord_friky</a><br>
+			<a href="https://www.instagram.com/daniel.hdezm/" target="_blank"><img src="./res/icons/instagram.png" width="12"> daniel.hdezm</a>
 		</center></th>
 	</tr>
 </table>
