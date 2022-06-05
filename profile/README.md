@@ -29,53 +29,53 @@ Si quieres saber cómo funciona este juego, hemos preparado un documento explic�
 
 <table align="center">
 	<tr>
-		<th><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/fundadorxs/bryan.jpg" alt="Foto de Bryan Muñoz"></th>
-		<th><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/fundadorxs/daniel.jpg" alt="Foto de Daniel Hdez M"></th>
-		<th><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/fundadorxs/edward.jpg" alt="Foto de Eduard Delgado"></th>
-		<th><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/fundadorxs/flavio.jpg" alt="Foto de Flavio Valenzuela A"></th>
-		<th><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/fundadorxs/neco.jpg" alt="Foto de Miguel Necoechea"></th>
-		<th><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/fundadorxs/selene.jpg" alt="Foto de Selene Rodríguez"></th>
+		<th><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/fundadorxs/bryan.jpg" alt="Foto de Bryan Muñoz" width="150"></th>
+		<th><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/fundadorxs/daniel.jpg" alt="Foto de Daniel Hdez M" width="150"></th>
+		<th><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/fundadorxs/edward.jpg" alt="Foto de Eduard Delgado" width="150"></th>
 	</tr>
 	<tr>
 		<td><p align="center">
 			<b>Bryan Muñoz</b><br>
 			<a href="https://www.linkedin.com/in/bryan-munozm/"><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/icons/linkedin.png" width="12"> bryan-munozm</a><br>
-			<a href="https://www.instagram.com/mr._bombastick/"><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/icons/instagram.png" width="12"> mr._bombastick</a><br>
-            <img width=1024/>
+			<a href="https://www.instagram.com/mr._bombastick/"><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/icons/instagram.png" width="12"> mr._bombastick</a>
 		</p></td>
 		<td><p align="center">
 			<b>Daniel Hdez M</b><br>
 			<a href="https://github.com/lordfriky"><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/icons/github.png" width="12"> lordfriky</a><br>
 			<a href="https://twitter.com/lord_friky"><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/icons/twitter.png" width="12"> lord_friky</a><br>
-			<a href="https://www.instagram.com/daniel.hdezm/"><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/icons/instagram.png" width="12"> daniel.hdezm</a><br>
-            <img width=1024/>
+			<a href="https://www.instagram.com/daniel.hdezm/"><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/icons/instagram.png" width="12"> daniel.hdezm</a>
 		</p></td>
 		<td><p align="center">
 			<b>Eduard Delgado</b><br>
 			(Blanco)<br>
 			<a href="https://facebook.com/ligths.x5"><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/icons/facebook.png" width="12"> Eduard Blanco</a><br>
 			<a href="https://www.instagram.com/ligthss/"><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/icons/instagram.png" width="12"> ligthss</a><br>
-			<a href="https://twitter.com/Ligthss_"><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/icons/twitter.png" width="12"> Ligthss_</a><br>
-            <img width=1024/>
+			<a href="https://twitter.com/Ligthss_"><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/icons/twitter.png" width="12"> Ligthss_</a>
 		</p></td>
+	</tr>
+		<th><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/fundadorxs/flavio.jpg" alt="Foto de Flavio Valenzuela A" width="150"></th>
+		<th><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/fundadorxs/neco.jpg" alt="Foto de Miguel Necoechea" width="150"></th>
+		<th><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/fundadorxs/selene.jpg" alt="Foto de Selene Rodríguez" width="150"></th>
+	<tr>
+	</tr>
+	<tr>
 		<td><p align="center">
 			<b>Flavio Valenzuela A.</b><br>
-			<a href="https://facebook.com/flavio.valenzuelaalvarez"><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/icons/facebook.png" width="12"> Flavio Valenzuela Alvarez</a><br>
+			<a href="https://facebook.com/flavio.valenzuelaalvarez"><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/icons/facebook.png" width="12"> Flavio Valenzuela<br>Alvarez</a><br>
 			<a href="https://www.instagram.com/flaviovalal/"><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/icons/instagram.png" width="12"> flaviovalal</a><br>
-			<a href="https://twitter.com/cesar_valal"><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/icons/twitter.png" width="12"> cesar_valal</a><br>
-            <img width=1024/>
+			<a href="https://twitter.com/cesar_valal"><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/icons/twitter.png" width="12"> cesar_valal</a>
 		</p></td>
 		<td><p align="center">
 			<b>Miguel Necoechea</b><br>
 			(Neco)<br>
-            <img width=1024/>
+			<a href="https://github.com/MiguelNecoechea"><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/icons/github.png" width="12"> MiguelNecoechea</a><br>
+			<a href="https://www.instagram.com/necoecheamiguel/"><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/icons/instagram.png" width="12"> necoecheamiguel</a>
 		</p></td>
 		<td><p align="center">
 			<b>Selene Rodríguez</b><br>
 			(Sele)<br>
 			<a href="https://www.linkedin.com/in/selene-rodriguez/"><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/icons/linkedin.png" width="12"> selene-rodriguez</a><br>
-			<a href="https://www.instagram.com/_selenerdz_/"><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/icons/instagram.png" width="12"> _selenerdz_</a><br>
-            <img width=1024/>
+			<a href="https://www.instagram.com/_selenerdz_/"><img src="https://github.com/prueba-progra-cucei/.github/raw/main/res/icons/instagram.png" width="12"> _selenerdz_</a>
 		</p></td>
 	</tr>
 </table>
